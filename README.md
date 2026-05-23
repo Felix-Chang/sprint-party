@@ -1,6 +1,6 @@
-# Sprint Party
-
-Your real tasks. A real leaderboard. Actual chaos.
+<div align="center">
+  <img src="readme-banner.svg" alt="Sprint Party" width="437" height="140">
+</div>
 
 Sprint Party turns your weekly to-do list into a multiplayer race. Submit your tasks, mark them complete, and outscore your friends — while random events and power-ups keep things unpredictable.
 
