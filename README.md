@@ -2,6 +2,7 @@
   <img src="readme-banner.svg" alt="Sprint Party" width="437" height="140">
 </div>
 
+<br><br>
 Sprint Party turns your weekly to-do list into a multiplayer race. Submit your tasks, mark them complete, and outscore your friends — while random events and power-ups keep things unpredictable.
 
 ---
