@@ -29,13 +29,13 @@ Sprint Party turns your weekly to-do list into a multiplayer race. Submit your t
 
 ## Events
 
-On Tuesday, Thursday, and Saturday, a random event fires for everyone in the room:
+On every other day, a random event fires for everyone in the room:
 
 - **Blitz** — every completed task earns +50 pts for the rest of the day
 - **Bounty** — beat the target player's task count to steal 200 pts; if they survive, they earn +300
 - **Team Up** — the room splits into two teams; winning team earns 300 pts each
-- **Task Swap** — players swap one incomplete task with each other
-- **Mystery Bonus** — one difficulty tier is randomly chosen; all tasks of that tier earn +100 pts today
+- **Task Swap** — players swap one incomplete task's difficulty with each other
+- **Mystery Bonus** — one difficulty tier is randomly chosen; all tasks of that tier earn +100 pts that day
 
 ---
 
